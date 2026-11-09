@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Back_Legs_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Beetle_Armature
+    m_Weight: 1
+  - m_Path: Beetle_Armature/Antenna4.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/Antenna4.L/Antenna4.L_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/Antenna4.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/Antenna4.R/Antenna4.R_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/BackLeg3.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/BackLeg3.L/BackLeg3.L_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/BackLeg3.L/L_BackLeg3
+    m_Weight: 1
+  - m_Path: Beetle_Armature/BackLeg3.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/BackLeg3.R/BackLeg3.R_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/BackLeg3.R/R_BackLeg3
+    m_Weight: 1
+  - m_Path: Beetle_Armature/FrontLeg3.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/FrontLeg3.L/FrontLeg3.L_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/FrontLeg3.L/L_FrontLeg3
+    m_Weight: 0
+  - m_Path: Beetle_Armature/FrontLeg3.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/FrontLeg3.R/FrontLeg3.R_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/FrontLeg3.R/R_FrontLeg3
+    m_Weight: 0
+  - m_Path: Beetle_Armature/MidLeg3.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/MidLeg3.L/L_MidLeg3
+    m_Weight: 1
+  - m_Path: Beetle_Armature/MidLeg3.L/MidLeg3.L_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/MidLeg3.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/MidLeg3.R/MidLeg3.R_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/MidLeg3.R/R_MidLeg3
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.L/BackLeg2.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.L/BackLeg2.L/BackLeg2.L_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.L/BackLeg2.L/L_BackLeg2
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.L/L_BackLeg1
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.R/BackLeg2.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.R/BackLeg2.R/BackLeg2.R_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.R/BackLeg2.R/R_BackLeg2
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLeg1.R/R_BackLeg1
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLegIK.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLegIK.L/BackLegIK.L_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLegIK.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLegIK.R/BackLegIK.R_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLegPV.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLegPV.L/BackLegPV.L_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLegPV.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BackLegPV.R/BackLegPV.R_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BeetleSpine1
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/BeetleSpineWings
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.L/L_MidLeg1
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.L/MidLeg2.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.L/MidLeg2.L/L_MidLeg2
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.L/MidLeg2.L/MidLeg2.L_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.R/MidLeg2.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.R/MidLeg2.R/MidLeg2.R_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.R/MidLeg2.R/R_MidLeg2
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLeg1.R/R_MidLeg1
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLegIK.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLegIK.L/MidLegIK.L_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLegIK.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLegIK.R/MidLegIK.R_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLegPV.L
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLegPV.L/MidLegPV.L_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLegPV.R
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/MidLegPV.R/MidLegPV.R_end
+    m_Weight: 1
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/BeetleSpine2
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.L/FrontLeg2.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.L/FrontLeg2.L/FrontLeg2.L_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.L/FrontLeg2.L/L_FrontLeg2
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.L/L_FrontLeg1
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.R/FrontLeg2.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.R/FrontLeg2.R/FrontLeg2.R_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.R/FrontLeg2.R/R_FrontLeg2
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLeg1.R/R_FrontLeg1
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLegIK.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLegIK.L/FrontLegIK.L_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLegIK.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLegIK.R/FrontLegIK.R_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLegPV.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLegPV.L/FrontLegPV.L_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLegPV.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/FrontLegPV.R/FrontLegPV.R_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Antenna1.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Antenna1.L/Antenna2.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Antenna1.L/Antenna2.L/Antenna3.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Antenna1.L/Antenna2.L/Antenna3.L/Antenna3.L_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Antenna1.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Antenna1.R/Antenna2.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Antenna1.R/Antenna2.R/Antenna3.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Antenna1.R/Antenna2.R/Antenna3.R/Antenna3.R_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/AntennaIK.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/AntennaIK.L/AntennaIK.L_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/AntennaIK.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/AntennaIK.R/AntennaIK.R_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/AntennaPV.L
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/AntennaPV.L/AntennaPV.L_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/AntennaPV.R
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/AntennaPV.R/AntennaPV.R_end
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/BeetleHead
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Mustache
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Mustache/HeadMustache
+    m_Weight: 0
+  - m_Path: Beetle_Armature/RootRoot/Root/Spine1/Spine2/Head/Mustache/Mustache_end
+    m_Weight: 0
+  - m_Path: HeadHat
+    m_Weight: 0
+  - m_Path: L_HeadAntenna
+    m_Weight: 0
+  - m_Path: R_HeadAntenna
+    m_Weight: 0

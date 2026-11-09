@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0acebf7ad8cb8dc45a0c4d76a4bb8c37, type: 3}
+  m_Name: MovementVariables
+  m_EditorClassIdentifier: Assembly-CSharp::MovementVariables
+  force: 2.5
+  maxSpeed: 120
+  deceleraionRate: 10
+  degreesPerClick: 10
+  maxDegree: 45
+  thresholdPercentage: 0.605
+  exponentialStrength: 20
+  pressThreshold: 0.5
+  releaseThreshold: 0.3

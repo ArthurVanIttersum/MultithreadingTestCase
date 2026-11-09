@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67f10f8da5537554db1a2f43e20e63ee, type: 3}
+  m_Name: worst case Biome 1
+  m_EditorClassIdentifier: Assembly-CSharp::HoneyGenerationSettings
+  objects:
+  - prefab: {fileID: 8627038817736207140, guid: 8eeb94af3f477074aa0875cefee3b07a,
+      type: 3}
+    ambientSpawnChance: 30
+    clusteredObjects: []
+  - prefab: {fileID: 1194870270320064009, guid: 490e10e0e963aea459e66afb53ef468f,
+      type: 3}
+    ambientSpawnChance: 15
+    clusteredObjects:
+    - indexInList: 0
+      addedSpawnChance: -15
+  - prefab: {fileID: 9098201467818836936, guid: 6ac08ae3ccc609f4f8c010ea4fbe1b61,
+      type: 3}
+    ambientSpawnChance: 0
+    clusteredObjects:
+    - indexInList: 0
+      addedSpawnChance: -5
+    - indexInList: 1
+      addedSpawnChance: 10
+  - prefab: {fileID: 9098201467818836936, guid: 6ac08ae3ccc609f4f8c010ea4fbe1b61,
+      type: 3}
+    ambientSpawnChance: 0
+    clusteredObjects:
+    - indexInList: 0
+      addedSpawnChance: 0
+    - indexInList: 0
+      addedSpawnChance: 0
+    - indexInList: 0
+      addedSpawnChance: 0
+    - indexInList: 0
+      addedSpawnChance: 0
+  - prefab: {fileID: 9098201467818836936, guid: 6ac08ae3ccc609f4f8c010ea4fbe1b61,
+      type: 3}
+    ambientSpawnChance: 0
+    clusteredObjects:
+    - indexInList: 0
+      addedSpawnChance: 0
+    - indexInList: 0
+      addedSpawnChance: 0
+    - indexInList: 0
+      addedSpawnChance: 0
+    - indexInList: 0
+      addedSpawnChance: 0
+  - prefab: {fileID: 9098201467818836936, guid: 6ac08ae3ccc609f4f8c010ea4fbe1b61,
+      type: 3}
+    ambientSpawnChance: 0
+    clusteredObjects:
+    - indexInList: 0
+      addedSpawnChance: 0
+    - indexInList: 0
+      addedSpawnChance: 0
+    - indexInList: 0
+      addedSpawnChance: 0
+    - indexInList: 0
+      addedSpawnChance: 0

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712e241521558f546898ce8974f36a5b, type: 3}
+  m_Name: Grassyrocks
+  m_EditorClassIdentifier: Assembly-CSharp::ReworkedHoneyGenerationSettings
+  smallCoinData:
+    prefab: {fileID: 4472256692413487707, guid: 5545408d150d5754da4c4402b0a5a2b8,
+      type: 3}
+    minSpawnCount: 2
+    maxSpawnCount: 10
+  bigCoinData:
+    prefab: {fileID: 8627038817736207140, guid: 8eeb94af3f477074aa0875cefee3b07a,
+      type: 3}
+    minSpawnCount: 1
+    maxSpawnCount: 3
+  grassAndStuff:
+  - prefab: {fileID: 2573344275019714, guid: 8f3a6157d2ee65a41847a1f2b0def3d4, type: 3}
+    minSpawnCount: 5
+    maxSpawnCount: 8
+  - prefab: {fileID: 914987552013322551, guid: 36b30e935ff211c47bb712b5de5eb1d5, type: 3}
+    minSpawnCount: 5
+    maxSpawnCount: 8
+  objects:
+  - prefab: {fileID: 2284881884688275089, guid: 4ebe593ec1041444284e80b42ce3d876,
+      type: 3}
+    minSpawnCount: 2
+    maxSpawnCount: 4
+    extraObjects:
+    - indexInList: 1
+      addedSpawnChance: 30
+  - prefab: {fileID: 8170576382531459598, guid: b80a9bdb4fb74514d920448469d47d80,
+      type: 3}
+    minSpawnCount: 2
+    maxSpawnCount: 5
+    extraObjects: []

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712e241521558f546898ce8974f36a5b, type: 3}
+  m_Name: Mushroomforest
+  m_EditorClassIdentifier: Assembly-CSharp::ReworkedHoneyGenerationSettings
+  smallCoinData:
+    prefab: {fileID: 4472256692413487707, guid: 5545408d150d5754da4c4402b0a5a2b8,
+      type: 3}
+    minSpawnCount: 2
+    maxSpawnCount: 10
+  bigCoinData:
+    prefab: {fileID: 8627038817736207140, guid: 8eeb94af3f477074aa0875cefee3b07a,
+      type: 3}
+    minSpawnCount: 1
+    maxSpawnCount: 3
+  grassAndStuff:
+  - prefab: {fileID: 3526826348010378369, guid: ced542beca0680b4c88ed665bf13dfc9,
+      type: 3}
+    minSpawnCount: 0
+    maxSpawnCount: 5
+  objects:
+  - prefab: {fileID: 9003685584751524420, guid: eff504d3e79852f439c02cb884f7ea26,
+      type: 3}
+    minSpawnCount: 3
+    maxSpawnCount: 4
+    extraObjects:
+    - indexInList: 1
+      addedSpawnChance: 30
+    - indexInList: 1
+      addedSpawnChance: 30
+  - prefab: {fileID: 2796245195815721328, guid: d5b11f325ac8feb4aae229a3ece7e7d0,
+      type: 3}
+    minSpawnCount: 0
+    maxSpawnCount: 1
+    extraObjects: []
+  - prefab: {fileID: 1628923153988324278, guid: 747ba33e48cdd30499cee4002490d1c0,
+      type: 3}
+    minSpawnCount: 1
+    maxSpawnCount: 2
+    extraObjects: []
